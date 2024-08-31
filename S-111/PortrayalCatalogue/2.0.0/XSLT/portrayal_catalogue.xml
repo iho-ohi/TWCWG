@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- 
+  Version 2.0.0 Build 20240801 Update of the S-111 Edition 1.0.0 PC for S-111 Edition 2.0.0
+    Updated by Raphael Malyankar (Portolan Sciences LLC)
+-->
+<pc:portrayalCatalog xmlns:pc="http://www.iho.int/S100PortrayalCatalog/5.2"
+  xmlns:xsl="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  productId="S-111"
+  version="2.0.0"
+  xsi:schemaLocation="http://www.iho.int/S100PortrayalCatalog/5.2 https://schemas.s100dev.net/schemas/S100/5.2.0/S100PC/20240415/S100PortrayalCatalog.xsd">
+  <pixmaps/>
+  <colorProfiles>
+    <colorProfile id="1">
+      <description>
+        <name>Color Profile for S-111</name>
+        <description>Color profile for S-111 with day, dusk, and night color palettes</description>
+        <language>eng</language>
+      </description>
+      <fileName>colorProfile.xml</fileName>
+      <fileType>ColorProfile</fileType>
+      <fileFormat>XML</fileFormat>
+    </colorProfile>
+  </colorProfiles>
+  <symbols>
+    <symbol id="SCAROW01">
+      <description>
+        <name>SCAROW01</name>
+        <description>Surface Current Vector Band 1</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW01.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+    <symbol id="SCAROW02">
+      <description>
+        <name>SCAROW02</name>
+        <description>Surface Current Vector Band 2</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW02.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+    <symbol id="SCAROW03">
+      <description>
+        <name>SCAROW03</name>
+        <description>Surface Current Vector Band 3</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW03.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+    <symbol id="SCAROW04">
+      <description>
+        <name>SCAROW04</name>
+        <description>Surface Current Vector Band 4</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW04.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+    <symbol id="SCAROW05">
+      <description>
+        <name>SCAROW05</name>
+        <description>Surface Current Vector Band 5</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW05.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+    <symbol id="SCAROW06">
+      <description>
+        <name>SCAROW06</name>
+        <description>Surface Current Vector Band 6</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW06.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+    <symbol id="SCAROW07">
+      <description>
+        <name>SCAROW07</name>
+        <description>Surface Current Vector Band 7</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW07.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+    <symbol id="SCAROW08">
+      <description>
+        <name>SCAROW08</name>
+        <description>Surface Current Vector Band 8</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW08.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+    <symbol id="SCAROW09">
+      <description>
+        <name>SCAROW09</name>
+        <description>Surface Current Vector Band 9</description>
+        <language>eng</language>
+      </description>
+      <fileName>SCAROW09.svg</fileName>
+      <fileType>Symbol</fileType>
+      <fileFormat>SVG</fileFormat>
+    </symbol>
+  </symbols>
+  <styleSheets>
+    <styleSheet id="S111Day">
+      <fileName>SVGStyle_S111day.css</fileName>
+      <fileType>StyleSheet</fileType>
+      <fileFormat>CSS</fileFormat>
+    </styleSheet>
+    <styleSheet id="S111Night">
+      <fileName>SVGStyle_S111night.css</fileName>
+      <fileType>StyleSheet</fileType>
+      <fileFormat>CSS</fileFormat>
+    </styleSheet>
+    <styleSheet id="S111Dusk">
+      <fileName>SVGStyle_S111dusk.css</fileName>
+      <fileType>StyleSheet</fileType>
+      <fileFormat>CSS</fileFormat>
+    </styleSheet>
+  </styleSheets>
+  <lineStyles/>
+  <areaFills/>
+  <fonts/>
+  <viewingGroups>
+    <viewingGroup id="33060">
+      <description>
+        <name>current and tidal stream information (CURENT, TS_FEB, TS_PAD, TS_PNH, TS_PRH, TS_TIS)</name>
+        <description>Other: H, I - Depths, Currents, etc.</description>
+        <language>eng</language>
+      </description>
+    </viewingGroup>
+  </viewingGroups>
+  <foundationMode/>
+  <viewingGroupLayers>
+    <viewingGroupLayer id="17">
+      <description>
+        <name>Tidal</name>
+        <description>Other Display elements</description>
+        <language>eng</language>
+      </description>
+      <viewingGroup>33060</viewingGroup>
+    </viewingGroupLayer>
+  </viewingGroupLayers>
+  <displayModes>
+    <displayMode id="DisplayBase">
+      <description>
+        <name>Display Base</name>
+        <description>Always on display</description>
+        <language>eng</language>
+      </description>
+    </displayMode>
+    <displayMode id="StandardDisplay">
+      <description>
+        <name>Standard Display</name>
+        <description>ECDIS default display</description>
+        <language>eng</language>
+      </description>
+    </displayMode>
+    <displayMode id="OtherInformation">
+      <description>
+        <name>Other Information</name>
+        <description>All other objects in the SENC</description>
+        <language>eng</language>
+      </description>
+      <viewingGroupLayer>17</viewingGroupLayer>
+    </displayMode>  
+  </displayModes>
+  <displayPlanes>
+    <displayPlane id="OverRadar" order="1">
+      <description>
+        <name>Over radar</name>
+        <description>Content displayed on top of Radar image</description>
+        <language>eng</language>
+      </description>
+    </displayPlane>
+    <displayPlane id="UnderRadar" order="-1">
+      <description>
+        <name>Under radar</name>
+        <description>Content displayed underneath Radar image</description>
+        <language>eng</language>
+      </description>
+    </displayPlane>
+  </displayPlanes>
+  <context/>
+  <rules>
+  	<ruleFile id="1">
+	 <description>
+		<name>main</name>
+		<description>main</description>
+		<language>eng</language>
+	 </description>
+	 <fileName>main.xsl</fileName>
+	 <fileType>Rule</fileType>
+	 <fileFormat>XSLT</fileFormat>
+	 <ruleType>TopLevelTemplate</ruleType>
+  </ruleFile>  
+    <ruleFile id="2">
+      <description>
+        <name>SurfaceCurrent</name>
+        <description>Surface Current</description>
+        <language>eng</language>
+      </description>
+      <fileName>SurfaceCurrent.xsl</fileName>
+      <fileType>Rule</fileType>
+      <fileFormat>XSLT</fileFormat>
+      <ruleType>SubTemplate</ruleType>
+    </ruleFile>
+    <ruleFile id="3">
+      <description>
+        <name>select_arrow</name>
+        <description>Surface Current</description>
+        <language>eng</language>
+      </description>
+      <fileName>select_arrow.xsl</fileName>
+      <fileType>Rule</fileType>
+      <fileFormat>XSLT</fileFormat>
+      <ruleType>SubTemplate</ruleType>
+    </ruleFile>
+  </rules>
+</pc:portrayalCatalog>
