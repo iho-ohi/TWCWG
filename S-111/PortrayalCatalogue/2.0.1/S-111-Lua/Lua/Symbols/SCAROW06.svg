@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-stylesheet href="SVGStyle_S111.css" type="text/css"?>
+<?xml-stylesheet href="SVGStyle_S111day.css" type="text/css"?>
 <svg xmlns="http://www.w3.org/2000/svg"
   xmlns:iho="http://www.iho.int/SVGMetadata/5.2"
   version="1.2" baseProfile="tiny" xml:space="preserve" shape-rendering="geometricPrecision" fill-rule="evenodd"
@@ -13,8 +13,8 @@
   </metadata>
   <path d="M 0,5 L -0.5,5 L -1.0,-1.5 L -2.0,-1.5 L 0,-5 L 2.0,-1.5 L 1.0,-1.5 L 0.5,5 L 0,5 Z" fill="#CDC100" stroke="#000000" class="fSCBN6 sCHBLK" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1" stroke-width="0.32" />
   <g display="none" stroke-width="0.16" fill="none" class="layout">
-    <rect x="-3" y="-5.5" height="11" width="6" stroke="blue" class="svgBox" />
-    <rect x="-3" y="-5.5" height="11" width="6" stroke="blue" class="symbolBox" />
+    <rect x="-3" y="-5.5" height="11" width="6" fill="none" class="svgBox" />
+    <rect x="-3" y="-5.5" height="11" width="6" fill="none" class="symbolBox" />
     <g stroke="red" class="pivotPoint">
       <circle cx="0" cy="0" r="0.5" />
       <line x1="0" y1="-0.5" x2="0" y2="0.5" />
