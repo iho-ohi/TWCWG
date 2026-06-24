@@ -2,9 +2,6 @@
 <?xml-stylesheet href="SVGStyle_S111.css" type="text/css"?>
 <svg xmlns="http://www.w3.org/2000/svg"
   xmlns:iho="http://www.iho.int/SVGMetadata/5.2"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.w3.org/2000/svg https://schemas.s100dev.net/schemas/S100/5.2.0/S100PC/20240415/S100SVG.xsd
-    http://www.iho.int/SVGMetadata/5.2 https://schemas.s100dev.net/schemas/S100/5.2.0/S100PC/20240415/S100SVGMeta.xsd"
   version="1.2" baseProfile="tiny" xml:space="preserve" shape-rendering="geometricPrecision" fill-rule="evenodd"
   width="6mm" height="11mm" viewBox="-3 -5.5 6 11">
   <title>SCAROW02</title>
