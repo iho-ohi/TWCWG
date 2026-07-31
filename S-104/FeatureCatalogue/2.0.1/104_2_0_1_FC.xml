@@ -12,7 +12,7 @@
 	<S100FC:scope>Water level data are intended to be used as stand-alone data or as a layer in an ENC.</S100FC:scope>
 	<S100FC:fieldOfApplication>Marine navigation</S100FC:fieldOfApplication>
 	<S100FC:versionNumber>2.0.1</S100FC:versionNumber>
-	<S100FC:versionDate>2026-02-26</S100FC:versionDate>
+	<S100FC:versionDate>2026-07-31</S100FC:versionDate>
 	<S100FC:productId>S-104</S100FC:productId>
 	<S100FC:producer>
 		<S100CI:role>owner</S100CI:role>
@@ -57,8 +57,8 @@
 			</S100FC:definitionReference>
 			<S100FC:valueType>real</S100FC:valueType>
 			<S100FC:uom>
-				<S100Base:name>metre</S100Base:name>
-			<S100Base:definition>SI metre</S100Base:definition>
+				<S100Base:name>Metre</S100Base:name>
+				<S100Base:definition>The basic unit of length in the International System of Units (SI) system.</S100Base:definition>
 			<S100Base:symbol>m</S100Base:symbol>
 			</S100FC:uom>
 			<S100FC:quantitySpecification>length</S100FC:quantitySpecification>
@@ -95,8 +95,8 @@
 			</S100FC:definitionReference>
 			<S100FC:valueType>real</S100FC:valueType>
 			<S100FC:uom>
-				<S100Base:name>metre</S100Base:name>
-			<S100Base:definition>SI metre</S100Base:definition>
+				<S100Base:name>Metre</S100Base:name>
+				<S100Base:definition>The basic unit of length in the International System of Units (SI) system.</S100Base:definition>
 			<S100Base:symbol>m</S100Base:symbol>
 			</S100FC:uom>
 			<S100FC:quantitySpecification>length</S100FC:quantitySpecification>
