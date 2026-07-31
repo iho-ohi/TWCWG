@@ -57,7 +57,7 @@
 			</S100FC:definitionReference>
 			<S100FC:valueType>real</S100FC:valueType>
 			<S100FC:uom>
-				<S100Base:name>metre</S100Base:name>
+				<S100Base:name>Metre</S100Base:name>
 				<S100Base:definition>The basic unit of length in the International System of Units (SI) system.</S100Base:definition>
 			<S100Base:symbol>m</S100Base:symbol>
 			</S100FC:uom>
@@ -95,7 +95,7 @@
 			</S100FC:definitionReference>
 			<S100FC:valueType>real</S100FC:valueType>
 			<S100FC:uom>
-				<S100Base:name>metre</S100Base:name>
+				<S100Base:name>Metre</S100Base:name>
 				<S100Base:definition>The basic unit of length in the International System of Units (SI) system.</S100Base:definition>
 			<S100Base:symbol>m</S100Base:symbol>
 			</S100FC:uom>
