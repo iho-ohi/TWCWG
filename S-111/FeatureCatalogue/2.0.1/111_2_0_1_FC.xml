@@ -11,7 +11,7 @@
         <S100FC:scope>Navigationally Significant Surface Current which may be used alone or as an auxiliary layer of data with an ENC.</S100FC:scope>
         <S100FC:fieldOfApplication>Marine navigation</S100FC:fieldOfApplication>
         <S100FC:versionNumber>2.0.1</S100FC:versionNumber>
-        <S100FC:versionDate>2026-07-31</S100FC:versionDate>
+        <S100FC:versionDate>2026-11-20</S100FC:versionDate>
         <S100FC:productId>S-111</S100FC:productId>
         <S100FC:producer>
                 <S100CI:role>owner</S100CI:role>
@@ -55,7 +55,7 @@
                         </S100FC:definitionReference>
                         <S100FC:valueType>real</S100FC:valueType>
                         <S100FC:uom>
-                                <S100Base:name>Degree of Arc</S100Base:name>
+                                <S100Base:name>degree</S100Base:name>
                                 <S100Base:definition>1° = (π/180) rad </S100Base:definition>
                                 <S100Base:symbol>°</S100Base:symbol>
                         </S100FC:uom>
@@ -80,9 +80,9 @@
                         </S100FC:definitionReference>
                         <S100FC:valueType>real</S100FC:valueType>
                         <S100FC:uom>
-                                <S100Base:name>Knot</S100Base:name>
+                                <S100Base:name>knot</S100Base:name>
                                 <S100Base:definition>A nautical unit of speed. One knot is one nautical mile per hour.</S100Base:definition>
-                                <S100Base:symbol>kt</S100Base:symbol>
+                                <S100Base:symbol>kn</S100Base:symbol>
                         </S100FC:uom>
                         <S100FC:quantitySpecification>speed</S100FC:quantitySpecification>
                         <S100FC:constraints>
@@ -103,7 +103,7 @@
                         </S100FC:definitionReference>
                         <S100FC:valueType>real</S100FC:valueType>
                         <S100FC:uom>
-                                <S100Base:name>Degree of Arc</S100Base:name>
+                                <S100Base:name>degree</S100Base:name>
                                 <S100Base:definition>1° = (π/180) rad</S100Base:definition>
                                 <S100Base:symbol>°</S100Base:symbol>
                         </S100FC:uom>
@@ -127,9 +127,9 @@
                         </S100FC:definitionReference>
                         <S100FC:valueType>real</S100FC:valueType>
                         <S100FC:uom>
-                                <S100Base:name>Knot</S100Base:name>
+                                <S100Base:name>knot</S100Base:name>
                                 <S100Base:definition>A nautical unit of speed. One knot is one nautical mile per hour.</S100Base:definition>
-                                <S100Base:symbol>kt</S100Base:symbol>
+                                <S100Base:symbol>kn</S100Base:symbol>
                         </S100FC:uom>
                         <S100FC:quantitySpecification>speed</S100FC:quantitySpecification>
                         <S100FC:constraints>
