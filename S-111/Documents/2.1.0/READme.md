@@ -2,4 +2,4 @@
 
 ### October 2026
 
-- Working draft of Edition 2.1.0
+- Working draft of Edition 2.1.0 (now in archive folder)
